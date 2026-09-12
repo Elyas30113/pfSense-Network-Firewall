@@ -139,3 +139,6 @@ dns
 
 ![Figure 7 - Packet Captured](./Figure%207%20-%20Packet%20Captured.png)
 
+### Figure 8 - Firewall Log Entry
+
+![Figure 8 - Firewall Log Entry](./Figure%208%20-%20Firewall%20Log%20Entry%28Allowing%20and%20Blocking%20the%20predefined%20networks%29.png)
