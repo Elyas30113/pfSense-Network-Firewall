@@ -142,3 +142,10 @@ dns
 ### Figure 8 - Firewall Log Entry
 
 ![Figure 8 - Firewall Log Entry](./Figure%208%20-%20Firewall%20Log%20Entry%28Allowing%20and%20Blocking%20the%20predefined%20networks%29.png)
+
+---
+## Conclusion
+
+This project demonstrates the practical implementation of a network firewall using pfSense in a virtualized environment. Firewall rules were configured to allow and block selected network traffic. The rules were tested using Kali Linux, while Wireshark was used to capture and analyze network packets. pfSense firewall logs were also examined to verify the expected traffic behavior.
+
+The project provided practical experience with firewall configuration, packet filtering, network monitoring, logging, and basic network security concepts.
