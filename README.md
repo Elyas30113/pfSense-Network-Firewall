@@ -110,3 +110,32 @@ tcp.port == 3389
 tcp.port == 25
 icmp
 dns
+```
+### Figure 1 - pfSense VM
+
+![Figure 1 - pfSense VM](./Figure%201%20-%20Pf%20Sense%20vm.png)
+
+### Figure 2 - pfSense Network Firewall Dashboard
+
+![Figure 2 - pfSense Network Firewall Dashboard](./Figure%202%20-%20Pf%20Sense%20Network%20Firewall%20Dashboard.png)
+
+### Figure 3 - Implementing Rule
+
+![Figure 3 - Implementing Rule](./Figure%203%20-%20Implementing%20Rule.png)
+
+### Figure 4 - Rules Implemented
+
+![Figure 4 - Rules Implemented](./Figure%204%20-%20Rules%20Implemented.png)
+
+### Figure 5 - Creating Traffic
+
+![Figure 5 - Creating Traffic](./Figure%205%20-%20Creating%20Traffic.png)
+
+### Figure 6 - Opening Wireshark
+
+![Figure 6 - Opening Wireshark](./Figure%206%20-%20Opening%20Wireshark.png)
+
+### Figure 7 - Packet Captured
+
+![Figure 7 - Packet Captured](./Figure%207%20-%20Packet%20Captured.png)
+
